@@ -211,7 +211,7 @@ int main(int argc, char* argv[]) {
             }
         }
 
-        a += 0.1;
+        a += 1.0;
         glm::mat4 rotation = glm::rotate(glm::mat4(1.0f), glm::radians(a), rotationAxis);
 
         // Calculate the model matrix
