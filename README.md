@@ -7,7 +7,7 @@ This is the result of rendering my spaceship made in blender:
 
 ![FlatShading](FlatShading.png)
 
-![FlatShading.gif](https://i.imgur.com/tSC8p2y.gif)
+![FlatShading.gif](FlatShading.gif)
 
 ## Dependencies
 - SLD2: Library used to create windows and render graphics.
